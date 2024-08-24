@@ -2,7 +2,12 @@
 #first hello world program. 
 
 
-print("Namte World")
+print("Namste World")
+a=5;
+b=6;
+
+print(a+b)
+
 
 
 
